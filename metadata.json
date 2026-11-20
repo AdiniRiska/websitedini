@@ -1,0 +1,6 @@
+{
+  "name": "Adini's Corner — Portfolio & Katalog Whimsy",
+  "description": "Portfolio satu halaman Adini Riska Putri dengan desain pastel minimalis dan katalog e-commerce fashion perempuan bertema whimsy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
